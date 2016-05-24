@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="XML.serializaton.Decorations.Chain" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAAAAgAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorations\Chain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Decorations.Coulomb" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAQAAAACAAAA=</HashCode>
+      <FileName>Decorations\Coulomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Decorations.DecorationClass" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAIAAAAgAgAAAAAAQAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorations\DecorationClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Decorations.Earrings" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAGAAAA=</HashCode>
+      <FileName>Decorations\Earrings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Decorations.Pin" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAACgAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Decorations\Pin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Decorations.Ring" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAQAAAACAAAA=</HashCode>
+      <FileName>Decorations\Ring.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Decorations.Watches" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAIAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Decorations\Watches.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Factories.ChainFactory" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\ChainFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Factories.CoulombFactory" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\CoulombFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Factories.EarringsFactory" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\EarringsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Factories.Factory" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Factories.PinFactory" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\PinFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Factories.RingFactory" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\RingFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Factories.WatchesFactory" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\WatchesFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Form1" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAASAgMBIQABSAAABCIMg4AAMAMnAMAAAgAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Program" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Properties.Resources" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XML.serializaton.Properties.Settings" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
